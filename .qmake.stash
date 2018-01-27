@@ -1,0 +1,12 @@
+QMAKE_DEFAULT_INCDIRS = \
+    c:/mingw32/lib/gcc/i686-w64-mingw32/4.9.2/include \
+    c:/mingw32/lib/gcc/i686-w64-mingw32/4.9.2/include-fixed \
+    c:/mingw32/i686-w64-mingw32/include \
+    c:/mingw32/i686-w64-mingw32/include/c++ \
+    c:/mingw32/i686-w64-mingw32/include/c++/i686-w64-mingw32 \
+    c:/mingw32/i686-w64-mingw32/include/c++/backward
+QMAKE_DEFAULT_LIBDIRS = \
+    c:/mingw32/lib/gcc/i686-w64-mingw32/4.9.2 \
+    c:/mingw32/lib/gcc \
+    c:/mingw32/i686-w64-mingw32/lib \
+    c:/mingw32/lib

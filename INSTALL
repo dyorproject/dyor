@@ -1,0 +1,9 @@
+Building dyor
+
+See doc/readme-qt.rst for instructions on building dyor QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of dyor.
+
+See doc/build-*.txt for instructions on building dyord,
+the intended-for-services, no-graphical-interface, reference
+implementation of dyor.

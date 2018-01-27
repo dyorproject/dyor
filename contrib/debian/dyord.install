@@ -1,0 +1,2 @@
+debian/bin/dyord usr/bin
+src/dyord usr/lib/dyor
